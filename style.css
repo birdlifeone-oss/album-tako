@@ -188,7 +188,10 @@ a{
 }
 
 @media(max-width:767px){
-.h{
+.page{
+   padding-bottom: 10%;
+}
+    .h{
     height: auto;
     width: 100%;
 }
