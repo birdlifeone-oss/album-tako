@@ -197,3 +197,44 @@ h3{
     letter-spacing: 50%; 
 }
 }
+
+
+@media (max-width: 1024px) and (orientation: landscape) {
+
+    
+.title{
+    height: auto;
+}
+
+.page{
+   
+    height: 100svh;
+   
+}
+
+.page img{
+    height: 70svh;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+}
+
+.h{
+    display: block;
+    aspect-ratio: 2/3;
+    height: 80svh;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.pconly{
+    display: block;
+}
+
+.sponly{
+    display: none;
+}
+
+
+
+}
