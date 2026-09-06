@@ -95,7 +95,7 @@ body{
 .h{
     display: block;
     aspect-ratio: 2/3;
-    height: 80vh;
+    height: 80svh;
     width: auto;
     max-width: 100%;
     object-fit: contain;
@@ -104,7 +104,7 @@ body{
 
 .title{
     width: 100%;
-    height: 100vh;
+    height: 100svh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -128,7 +128,7 @@ body{
 
 .page{
     width: 100%;
-    height: 100vh;
+    height: 100svh;
     display: flex;
     flex-direction: column;
     justify-content: center;
