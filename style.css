@@ -84,7 +84,7 @@ body{
 
 .main_wrapper{
     width: 100%;
-    max-width: 1100px;
+    max-width: 900px;
     padding: 200px 0 50px 0;
     margin: auto;
     display: flex;
